@@ -33,9 +33,7 @@
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.2.0",
-    "html-webpack-plugin": "^1.6.1"
-  },
-  "devDependencies": {
+    "html-webpack-plugin": "^1.6.1",
     "autoprefixer": "^6.0.3",
     "babel-eslint": "^4.1.6",
     "babel-loader": "^6.2.3",
@@ -64,5 +62,7 @@
     "sinon-chai": "^2.8.0",
     "stats-webpack-plugin": "^0.2.1",
     "style-loader": "^0.12.4"
+  },
+  "devDependencies": {
   }
 }
